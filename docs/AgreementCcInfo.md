@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.agreements.AgreementCcInfo
+# AdobeSign.Rest.model.agreements.AgreementCcInfo
 ## Properties
 
 Name | Type | Description | Notes

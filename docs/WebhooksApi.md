@@ -1,4 +1,4 @@
-# AdobeSign.Api.Api.WebhooksApi
+# AdobeSign.Rest.Api.WebhooksApi
 
 All URIs are relative to *http://localhost/api/rest/v6*
 
@@ -24,9 +24,9 @@ This is a primary endpoint which is used to create a new webhook. A webhook can 
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.webhooks;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.webhooks;
 
 namespace Example
 {
@@ -89,9 +89,9 @@ Deletes a webhook.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.webhooks;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.webhooks;
 
 namespace Example
 {
@@ -155,9 +155,9 @@ Retrieves the details of a webhook.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.webhooks;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.webhooks;
 
 namespace Example
 {
@@ -222,9 +222,9 @@ Retrieves webhooks for a user.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.webhooks;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.webhooks;
 
 namespace Example
 {
@@ -295,9 +295,9 @@ Updates a webhook.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.webhooks;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.webhooks;
 
 namespace Example
 {
@@ -363,9 +363,9 @@ Updates the state of a webhook identified by webhookId in the path.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.webhooks;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.webhooks;
 
 namespace Example
 {

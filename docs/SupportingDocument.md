@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.agreements.SupportingDocument
+# AdobeSign.Rest.model.agreements.SupportingDocument
 ## Properties
 
 Name | Type | Description | Notes

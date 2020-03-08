@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.agreements.FormFieldConditionPredicate
+# AdobeSign.Rest.model.agreements.FormFieldConditionPredicate
 ## Properties
 
 Name | Type | Description | Notes

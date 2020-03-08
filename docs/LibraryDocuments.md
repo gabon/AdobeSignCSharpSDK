@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.libraryDocuments.LibraryDocuments
+# AdobeSign.Rest.model.libraryDocuments.LibraryDocuments
 ## Properties
 
 Name | Type | Description | Notes

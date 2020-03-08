@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.agreements.DelegatedParticipantSetInfo
+# AdobeSign.Rest.model.agreements.DelegatedParticipantSetInfo
 ## Properties
 
 Name | Type | Description | Notes

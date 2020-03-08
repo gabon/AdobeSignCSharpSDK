@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.agreements.FormFieldMergeInfo
+# AdobeSign.Rest.model.agreements.FormFieldMergeInfo
 ## Properties
 
 Name | Type | Description | Notes

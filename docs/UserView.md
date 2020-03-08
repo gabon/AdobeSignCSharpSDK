@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.users.UserView
+# AdobeSign.Rest.model.users.UserView
 ## Properties
 
 Name | Type | Description | Notes

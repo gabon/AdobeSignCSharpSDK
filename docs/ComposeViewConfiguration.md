@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.agreements.ComposeViewConfiguration
+# AdobeSign.Rest.model.agreements.ComposeViewConfiguration
 ## Properties
 
 Name | Type | Description | Notes

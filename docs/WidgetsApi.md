@@ -1,4 +1,4 @@
-# AdobeSign.Api.Api.WidgetsApi
+# AdobeSign.Rest.Api.WidgetsApi
 
 All URIs are relative to *http://localhost/api/rest/v6*
 
@@ -38,9 +38,9 @@ Share a widget with someone.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {
@@ -107,9 +107,9 @@ This is a primary endpoint which is used to create a new widget. You can create 
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {
@@ -172,9 +172,9 @@ Retrieves detailed member info along with IDs for different types of participant
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {
@@ -239,9 +239,9 @@ Retrieves the events information for a widget.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {
@@ -306,9 +306,9 @@ Retrieves the participant set of a widget identified by widgetId in the path.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {
@@ -375,9 +375,9 @@ Retrieves agreements for the widget.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {
@@ -446,9 +446,9 @@ Retrieves image urls of all visible pages of a document associated with a widget
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {
@@ -517,9 +517,9 @@ Retrieves the audit trail of a widget identified by widgetId.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {
@@ -584,9 +584,9 @@ Retrieves a single combined PDF document for the documents associated with a wid
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {
@@ -657,9 +657,9 @@ Retrieves the file stream of a document of a widget.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {
@@ -726,9 +726,9 @@ Retrieves the IDs of the documents associated with widget.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {
@@ -799,9 +799,9 @@ CSV file stream containing form data information
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {
@@ -864,9 +864,9 @@ Retrieves the details of a widget.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {
@@ -931,9 +931,9 @@ Retrieves the latest note of a widget for the API user.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {
@@ -996,9 +996,9 @@ Retrieves the security options for a particular participant.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {
@@ -1065,9 +1065,9 @@ Retrieves the requested views for a widget.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {
@@ -1132,9 +1132,9 @@ Retrieves widgets for a user.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {
@@ -1201,9 +1201,9 @@ Updates a widget.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {
@@ -1269,9 +1269,9 @@ Updates the latest note of a widget for the API user.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {
@@ -1335,9 +1335,9 @@ Updates the security options for a particular participant.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {
@@ -1407,9 +1407,9 @@ This endpoint can be used by creator of the widget to transition between the sta
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {
@@ -1475,9 +1475,9 @@ Updates the visibility of widget.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.widgets;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.widgets;
 
 namespace Example
 {

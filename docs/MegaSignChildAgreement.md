@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.megaSigns.MegaSignChildAgreement
+# AdobeSign.Rest.model.megaSigns.MegaSignChildAgreement
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.libraryDocuments.LibDocEventDeviceLocation
+# AdobeSign.Rest.model.libraryDocuments.LibDocEventDeviceLocation
 ## Properties
 
 Name | Type | Description | Notes

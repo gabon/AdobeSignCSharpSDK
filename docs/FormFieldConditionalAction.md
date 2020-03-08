@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.agreements.FormFieldConditionalAction
+# AdobeSign.Rest.model.agreements.FormFieldConditionalAction
 ## Properties
 
 Name | Type | Description | Notes

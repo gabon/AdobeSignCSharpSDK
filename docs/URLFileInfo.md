@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.widgets.URLFileInfo
+# AdobeSign.Rest.model.widgets.URLFileInfo
 ## Properties
 
 Name | Type | Description | Notes

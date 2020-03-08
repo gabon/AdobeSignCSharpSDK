@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.widgets.WidgetCreationInfoV6
+# AdobeSign.Rest.model.widgets.WidgetCreationInfoV6
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# AdobeSign.Api.Api.TransientDocumentsApi
+# AdobeSign.Rest.Api.TransientDocumentsApi
 
 All URIs are relative to *http://localhost/api/rest/v6*
 
@@ -19,9 +19,9 @@ The document uploaded through this call is referred to as transient since it is 
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.transientDocuments;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.transientDocuments;
 
 namespace Example
 {

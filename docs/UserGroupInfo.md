@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.users.UserGroupInfo
+# AdobeSign.Rest.model.users.UserGroupInfo
 ## Properties
 
 Name | Type | Description | Notes

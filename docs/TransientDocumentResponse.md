@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.transientDocuments.TransientDocumentResponse
+# AdobeSign.Rest.model.transientDocuments.TransientDocumentResponse
 ## Properties
 
 Name | Type | Description | Notes

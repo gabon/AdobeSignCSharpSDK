@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.agreements.DelegatedParticipantSecurityOption
+# AdobeSign.Rest.model.agreements.DelegatedParticipantSecurityOption
 ## Properties
 
 Name | Type | Description | Notes

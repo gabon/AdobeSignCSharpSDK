@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.widgets.WidgetCreationResponse
+# AdobeSign.Rest.model.widgets.WidgetCreationResponse
 ## Properties
 
 Name | Type | Description | Notes

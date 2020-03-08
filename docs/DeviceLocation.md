@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.megaSigns.DeviceLocation
+# AdobeSign.Rest.model.megaSigns.DeviceLocation
 ## Properties
 
 Name | Type | Description | Notes

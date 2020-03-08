@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.widgets.DigitalSignatureInfo
+# AdobeSign.Rest.model.widgets.DigitalSignatureInfo
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.megaSigns.MegaSignViewResponse
+# AdobeSign.Rest.model.megaSigns.MegaSignViewResponse
 ## Properties
 
 Name | Type | Description | Notes

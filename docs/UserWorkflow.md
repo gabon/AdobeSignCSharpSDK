@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.workflows.UserWorkflow
+# AdobeSign.Rest.model.workflows.UserWorkflow
 ## Properties
 
 Name | Type | Description | Notes

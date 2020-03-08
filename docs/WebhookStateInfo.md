@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.webhooks.WebhookStateInfo
+# AdobeSign.Rest.model.webhooks.WebhookStateInfo
 ## Properties
 
 Name | Type | Description | Notes

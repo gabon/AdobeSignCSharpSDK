@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.libraryDocuments.FileUploadOptions
+# AdobeSign.Rest.model.libraryDocuments.FileUploadOptions
 ## Properties
 
 Name | Type | Description | Notes

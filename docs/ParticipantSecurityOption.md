@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.widgets.ParticipantSecurityOption
+# AdobeSign.Rest.model.widgets.ParticipantSecurityOption
 ## Properties
 
 Name | Type | Description | Notes

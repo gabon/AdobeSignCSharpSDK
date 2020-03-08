@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.widgets.CCParticipantInfo
+# AdobeSign.Rest.model.widgets.CCParticipantInfo
 ## Properties
 
 Name | Type | Description | Notes

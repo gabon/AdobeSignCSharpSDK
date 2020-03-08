@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.agreements.FormFieldPutInfo
+# AdobeSign.Rest.model.agreements.FormFieldPutInfo
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.megaSigns.MegaSignSecurityOption
+# AdobeSign.Rest.model.megaSigns.MegaSignSecurityOption
 ## Properties
 
 Name | Type | Description | Notes

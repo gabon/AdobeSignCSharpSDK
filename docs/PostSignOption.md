@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.megaSigns.PostSignOption
+# AdobeSign.Rest.model.megaSigns.PostSignOption
 ## Properties
 
 Name | Type | Description | Notes

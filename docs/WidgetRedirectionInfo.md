@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.widgets.WidgetRedirectionInfo
+# AdobeSign.Rest.model.widgets.WidgetRedirectionInfo
 ## Properties
 
 Name | Type | Description | Notes

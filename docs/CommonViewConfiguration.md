@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.widgets.CommonViewConfiguration
+# AdobeSign.Rest.model.widgets.CommonViewConfiguration
 ## Properties
 
 Name | Type | Description | Notes

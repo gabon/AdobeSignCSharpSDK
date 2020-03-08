@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.widgets.WidgetEventDeviceLocation
+# AdobeSign.Rest.model.widgets.WidgetEventDeviceLocation
 ## Properties
 
 Name | Type | Description | Notes

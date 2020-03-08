@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.widgets.DisplayParticipantInfo
+# AdobeSign.Rest.model.widgets.DisplayParticipantInfo
 ## Properties
 
 Name | Type | Description | Notes

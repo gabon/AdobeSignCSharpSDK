@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.megaSigns.ExternalId
+# AdobeSign.Rest.model.megaSigns.ExternalId
 ## Properties
 
 Name | Type | Description | Notes

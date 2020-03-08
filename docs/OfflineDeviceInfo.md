@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.agreements.OfflineDeviceInfo
+# AdobeSign.Rest.model.agreements.OfflineDeviceInfo
 ## Properties
 
 Name | Type | Description | Notes

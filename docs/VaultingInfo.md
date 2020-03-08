@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.widgets.VaultingInfo
+# AdobeSign.Rest.model.widgets.VaultingInfo
 ## Properties
 
 Name | Type | Description | Notes

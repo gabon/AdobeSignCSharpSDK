@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.megaSigns.MegaSignStateInfo
+# AdobeSign.Rest.model.megaSigns.MegaSignStateInfo
 ## Properties
 
 Name | Type | Description | Notes

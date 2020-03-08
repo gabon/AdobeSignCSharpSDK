@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.agreements.MembersInfo
+# AdobeSign.Rest.model.agreements.MembersInfo
 ## Properties
 
 Name | Type | Description | Notes

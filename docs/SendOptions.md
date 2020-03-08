@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.agreements.SendOptions
+# AdobeSign.Rest.model.agreements.SendOptions
 ## Properties
 
 Name | Type | Description | Notes

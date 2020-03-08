@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.widgets.UserWidget
+# AdobeSign.Rest.model.widgets.UserWidget
 ## Properties
 
 Name | Type | Description | Notes

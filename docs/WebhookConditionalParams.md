@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.webhooks.WebhookConditionalParams
+# AdobeSign.Rest.model.webhooks.WebhookConditionalParams
 ## Properties
 
 Name | Type | Description | Notes

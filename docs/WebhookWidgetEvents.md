@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.webhooks.WebhookWidgetEvents
+# AdobeSign.Rest.model.webhooks.WebhookWidgetEvents
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.agreements.EmailOption
+# AdobeSign.Rest.model.agreements.EmailOption
 ## Properties
 
 Name | Type | Description | Notes

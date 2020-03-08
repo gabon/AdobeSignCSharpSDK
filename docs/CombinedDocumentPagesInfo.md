@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.agreements.CombinedDocumentPagesInfo
+# AdobeSign.Rest.model.agreements.CombinedDocumentPagesInfo
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.widgets.PhoneInfo
+# AdobeSign.Rest.model.widgets.PhoneInfo
 ## Properties
 
 Name | Type | Description | Notes

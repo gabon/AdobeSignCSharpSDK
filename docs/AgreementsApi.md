@@ -1,4 +1,4 @@
-# AdobeSign.Api.Api.AgreementsApi
+# AdobeSign.Rest.Api.AgreementsApi
 
 All URIs are relative to *http://localhost/api/rest/v6*
 
@@ -54,9 +54,9 @@ Adds template fields to an agreement
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -125,9 +125,9 @@ This is a primary endpoint which is used to create a new agreement. An agreement
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -190,9 +190,9 @@ Retrieves the latest state view url of agreement.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -259,9 +259,9 @@ Participants marked as delegator can call this API endpoint.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -326,9 +326,9 @@ Creates a reminder on the specified participants of an agreement identified by a
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -393,9 +393,9 @@ Share an agreement with someone.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -460,9 +460,9 @@ Deletes all the documents of an agreement.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -526,9 +526,9 @@ Retrieves the current status of an agreement.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -593,9 +593,9 @@ Retrieves the latest note associated with an agreement.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -658,9 +658,9 @@ Retrieves a specific reminder associated with an agreement
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -725,9 +725,9 @@ Retrieves the reminders of an agreement, identified by agreementId in the path.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -792,9 +792,9 @@ Retrieves the security options for a particular participant.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -861,9 +861,9 @@ Retrieves agreements for the user.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -932,9 +932,9 @@ Retrieves the IDs of the documents of an agreement identified by agreementId.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -1005,9 +1005,9 @@ Retrieves image urls of all visible pages of all the documents associated with a
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -1080,9 +1080,9 @@ Retrieves information of members of the agreement.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -1151,9 +1151,9 @@ PDF file stream containing audit trail information
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -1218,9 +1218,9 @@ Retrieves a single combined PDF document for the documents associated with an ag
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -1293,9 +1293,9 @@ Retrieves info of all pages of a combined PDF document for the documents associa
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -1362,9 +1362,9 @@ Retrieves url of all visible pages of all the documents associated with an agree
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -1435,9 +1435,9 @@ Retrieves the file stream of a document of an agreement.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -1504,9 +1504,9 @@ Retrieves image urls of all visible pages of a document associated with an agree
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -1579,9 +1579,9 @@ Retrieves the events information for an agreement.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -1648,9 +1648,9 @@ This API can only be called by the creator of the agreement
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -1715,9 +1715,9 @@ Retrieves details of form fields of an agreement.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -1784,9 +1784,9 @@ Retrieves the merge info stored with an agreement.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -1849,9 +1849,9 @@ Retrieves the participant set of an agreement identified by agreementId in the p
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -1918,9 +1918,9 @@ Retrieves the URL for the e-sign page for the current signer(s) of an agreement.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -1983,9 +1983,9 @@ Rejects the agreement for a participant.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -2053,9 +2053,9 @@ Updates the agreement in draft state, or update the expirationTime on an existin
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -2121,9 +2121,9 @@ Set the merge info for an agreement.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -2189,9 +2189,9 @@ Updates the latest note associated with an agreement.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -2257,9 +2257,9 @@ You can only update an ACTIVE reminder, and can only update the status to 'CANCE
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -2325,9 +2325,9 @@ Updates the security options for a particular participant.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -2397,9 +2397,9 @@ This endpoint can be used by originator/sender of an agreement to transition bet
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -2465,9 +2465,9 @@ Updates the visibility of an agreement.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -2531,9 +2531,9 @@ Updates form fields of an agreement.  This will replace all fields in AUTHORING 
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {
@@ -2600,9 +2600,9 @@ Updates the participant set of an agreement identified by agreementId in the pat
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.agreements;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.agreements;
 
 namespace Example
 {

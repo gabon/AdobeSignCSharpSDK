@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.users.UserStatusUpdateResponse
+# AdobeSign.Rest.model.users.UserStatusUpdateResponse
 ## Properties
 
 Name | Type | Description | Notes

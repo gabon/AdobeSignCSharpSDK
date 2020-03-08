@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.baseUris.BaseUriInfo
+# AdobeSign.Rest.model.baseUris.BaseUriInfo
 ## Properties
 
 Name | Type | Description | Notes

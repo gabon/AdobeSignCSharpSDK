@@ -1,4 +1,4 @@
-# AdobeSign.Api.Api.MegaSignsApi
+# AdobeSign.Rest.Api.MegaSignsApi
 
 All URIs are relative to *http://localhost/api/rest/v6*
 
@@ -28,9 +28,9 @@ This is a primary endpoint which is used to create a new megaSign. A megaSign ca
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.megaSigns;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.megaSigns;
 
 namespace Example
 {
@@ -95,9 +95,9 @@ CSV file stream containing form data information
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.megaSigns;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.megaSigns;
 
 namespace Example
 {
@@ -164,9 +164,9 @@ Retrieves the events information for the MegaSign parent agreement.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.megaSigns;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.megaSigns;
 
 namespace Example
 {
@@ -231,9 +231,9 @@ Get all the child agreements of the specified MegaSign parent agreement.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.megaSigns;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.megaSigns;
 
 namespace Example
 {
@@ -300,9 +300,9 @@ Retrieves a single combined PDF document for the documents associated with the M
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.megaSigns;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.megaSigns;
 
 namespace Example
 {
@@ -371,9 +371,9 @@ CSV file stream containing form data information
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.megaSigns;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.megaSigns;
 
 namespace Example
 {
@@ -436,9 +436,9 @@ Get detailed information of the specified MegaSign parent agreement.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.megaSigns;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.megaSigns;
 
 namespace Example
 {
@@ -503,9 +503,9 @@ Retrieves the requested views of mega sign agreement.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.megaSigns;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.megaSigns;
 
 namespace Example
 {
@@ -570,9 +570,9 @@ Retrieves MegaSign parent agreements for a user.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.megaSigns;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.megaSigns;
 
 namespace Example
 {
@@ -639,9 +639,9 @@ This endpoint can be used by creator of the MegaSign to transition between the s
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.megaSigns;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.megaSigns;
 
 namespace Example
 {

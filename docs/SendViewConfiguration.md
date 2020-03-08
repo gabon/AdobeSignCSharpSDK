@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.libraryDocuments.SendViewConfiguration
+# AdobeSign.Rest.model.libraryDocuments.SendViewConfiguration
 ## Properties
 
 Name | Type | Description | Notes

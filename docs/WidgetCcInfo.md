@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.widgets.WidgetCcInfo
+# AdobeSign.Rest.model.widgets.WidgetCcInfo
 ## Properties
 
 Name | Type | Description | Notes

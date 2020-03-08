@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.megaSigns.AgreementCancellationInfo
+# AdobeSign.Rest.model.megaSigns.AgreementCancellationInfo
 ## Properties
 
 Name | Type | Description | Notes

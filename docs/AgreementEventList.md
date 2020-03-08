@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.agreements.AgreementEventList
+# AdobeSign.Rest.model.agreements.AgreementEventList
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.widgets.WidgetViews
+# AdobeSign.Rest.model.widgets.WidgetViews
 ## Properties
 
 Name | Type | Description | Notes

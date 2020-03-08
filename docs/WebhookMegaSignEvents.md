@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.webhooks.WebhookMegaSignEvents
+# AdobeSign.Rest.model.webhooks.WebhookMegaSignEvents
 ## Properties
 
 Name | Type | Description | Notes

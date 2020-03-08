@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.webhooks.UserWebhooks
+# AdobeSign.Rest.model.webhooks.UserWebhooks
 ## Properties
 
 Name | Type | Description | Notes

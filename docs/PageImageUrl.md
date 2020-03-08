@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.widgets.PageImageUrl
+# AdobeSign.Rest.model.widgets.PageImageUrl
 ## Properties
 
 Name | Type | Description | Notes

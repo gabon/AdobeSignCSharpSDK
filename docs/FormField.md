@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.agreements.FormField
+# AdobeSign.Rest.model.agreements.FormField
 ## Properties
 
 Name | Type | Description | Notes

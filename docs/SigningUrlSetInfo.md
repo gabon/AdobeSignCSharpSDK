@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.agreements.SigningUrlSetInfo
+# AdobeSign.Rest.model.agreements.SigningUrlSetInfo
 ## Properties
 
 Name | Type | Description | Notes

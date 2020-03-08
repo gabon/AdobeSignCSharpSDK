@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.widgets.VisibilityInfo
+# AdobeSign.Rest.model.widgets.VisibilityInfo
 ## Properties
 
 Name | Type | Description | Notes

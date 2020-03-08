@@ -1,4 +1,4 @@
-# AdobeSign.Api.Api.GroupsApi
+# AdobeSign.Rest.Api.GroupsApi
 
 All URIs are relative to *http://localhost/api/rest/v6*
 
@@ -19,9 +19,9 @@ Retrieves detailed information about the group.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.groups;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.groups;
 
 namespace Example
 {
@@ -82,9 +82,9 @@ Retrieves all the groups in an account.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.groups;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.groups;
 
 namespace Example
 {
@@ -147,9 +147,9 @@ Retrieves all the users in a group.
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.groups;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.groups;
 
 namespace Example
 {

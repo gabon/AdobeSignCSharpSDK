@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.widgets.WidgetEventList
+# AdobeSign.Rest.model.widgets.WidgetEventList
 ## Properties
 
 Name | Type | Description | Notes

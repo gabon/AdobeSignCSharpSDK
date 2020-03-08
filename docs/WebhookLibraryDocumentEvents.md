@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.webhooks.WebhookLibraryDocumentEvents
+# AdobeSign.Rest.model.webhooks.WebhookLibraryDocumentEvents
 ## Properties
 
 Name | Type | Description | Notes

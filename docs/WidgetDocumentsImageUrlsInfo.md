@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.widgets.WidgetDocumentsImageUrlsInfo
+# AdobeSign.Rest.model.widgets.WidgetDocumentsImageUrlsInfo
 ## Properties
 
 Name | Type | Description | Notes

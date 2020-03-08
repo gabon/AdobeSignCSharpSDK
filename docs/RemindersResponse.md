@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.agreements.RemindersResponse
+# AdobeSign.Rest.model.agreements.RemindersResponse
 ## Properties
 
 Name | Type | Description | Notes

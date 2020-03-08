@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.agreements.DelegationResponse
+# AdobeSign.Rest.model.agreements.DelegationResponse
 ## Properties
 
 Name | Type | Description | Notes

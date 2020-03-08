@@ -1,4 +1,4 @@
-# AdobeSign.Api.Api.BaseUrisApi
+# AdobeSign.Rest.Api.BaseUrisApi
 
 All URIs are relative to *http://localhost/api/rest/v6*
 
@@ -17,9 +17,9 @@ Gets the base uri to access other APIs. In case other APIs are accessed from a d
 ```csharp
 using System;
 using System.Diagnostics;
-using AdobeSign.Api.Api;
-using AdobeSign.Api.Client;
-using AdobeSign.Api.model.baseUris;
+using AdobeSign.Rest.Api;
+using AdobeSign.Rest.Client;
+using AdobeSign.Rest.model.baseUris;
 
 namespace Example
 {

@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.libraryDocuments.LibraryDocumentCreationInfoV6
+# AdobeSign.Rest.model.libraryDocuments.LibraryDocumentCreationInfoV6
 ## Properties
 
 Name | Type | Description | Notes

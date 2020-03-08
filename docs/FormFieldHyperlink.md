@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.agreements.FormFieldHyperlink
+# AdobeSign.Rest.model.agreements.FormFieldHyperlink
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.megaSigns.MegasignEvent
+# AdobeSign.Rest.model.megaSigns.MegasignEvent
 ## Properties
 
 Name | Type | Description | Notes

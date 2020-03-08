@@ -1,4 +1,4 @@
-# AdobeSign.Api.model.agreements.MergefieldInfo
+# AdobeSign.Rest.model.agreements.MergefieldInfo
 ## Properties
 
 Name | Type | Description | Notes
