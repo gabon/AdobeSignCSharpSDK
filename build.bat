@@ -3,4 +3,4 @@
 
 @echo off
 
-dotnet pack -c Release /p:PackageVersion=6.0.0 -o:pkg
+dotnet pack -c Release /p:PackageVersion=6.0.1 -o:pkg
