@@ -1,4 +1,4 @@
-# IO.Swagger.model.megaSigns.MegaSignCcInfo
+# AdobeSign.Api.model.megaSigns.MegaSignCcInfo
 ## Properties
 
 Name | Type | Description | Notes

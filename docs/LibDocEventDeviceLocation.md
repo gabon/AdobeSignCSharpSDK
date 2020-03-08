@@ -1,4 +1,4 @@
-# IO.Swagger.model.libraryDocuments.LibDocEventDeviceLocation
+# AdobeSign.Api.model.libraryDocuments.LibDocEventDeviceLocation
 ## Properties
 
 Name | Type | Description | Notes

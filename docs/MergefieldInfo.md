@@ -1,4 +1,4 @@
-# IO.Swagger.model.agreements.MergefieldInfo
+# AdobeSign.Api.model.agreements.MergefieldInfo
 ## Properties
 
 Name | Type | Description | Notes

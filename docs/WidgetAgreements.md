@@ -1,4 +1,4 @@
-# IO.Swagger.model.widgets.WidgetAgreements
+# AdobeSign.Api.model.widgets.WidgetAgreements
 ## Properties
 
 Name | Type | Description | Notes

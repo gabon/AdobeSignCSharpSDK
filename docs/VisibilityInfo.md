@@ -1,4 +1,4 @@
-# IO.Swagger.model.widgets.VisibilityInfo
+# AdobeSign.Api.model.widgets.VisibilityInfo
 ## Properties
 
 Name | Type | Description | Notes

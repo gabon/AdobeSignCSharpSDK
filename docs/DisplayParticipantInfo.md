@@ -1,4 +1,4 @@
-# IO.Swagger.model.widgets.DisplayParticipantInfo
+# AdobeSign.Api.model.widgets.DisplayParticipantInfo
 ## Properties
 
 Name | Type | Description | Notes

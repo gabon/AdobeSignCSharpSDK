@@ -1,4 +1,4 @@
-# IO.Swagger.model.widgets.CommonViewConfiguration
+# AdobeSign.Api.model.widgets.CommonViewConfiguration
 ## Properties
 
 Name | Type | Description | Notes

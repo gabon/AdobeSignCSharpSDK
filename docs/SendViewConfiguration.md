@@ -1,4 +1,4 @@
-# IO.Swagger.model.libraryDocuments.SendViewConfiguration
+# AdobeSign.Api.model.libraryDocuments.SendViewConfiguration
 ## Properties
 
 Name | Type | Description | Notes

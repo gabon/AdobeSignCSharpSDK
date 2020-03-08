@@ -1,4 +1,4 @@
-# IO.Swagger.model.agreements.FormFieldMergeInfo
+# AdobeSign.Api.model.agreements.FormFieldMergeInfo
 ## Properties
 
 Name | Type | Description | Notes

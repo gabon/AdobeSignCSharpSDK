@@ -1,4 +1,4 @@
-# IO.Swagger.model.agreements.AgreementFormFields
+# AdobeSign.Api.model.agreements.AgreementFormFields
 ## Properties
 
 Name | Type | Description | Notes

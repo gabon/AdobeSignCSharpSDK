@@ -1,4 +1,4 @@
-# IO.Swagger.model.agreements.SigningUrlResponse
+# AdobeSign.Api.model.agreements.SigningUrlResponse
 ## Properties
 
 Name | Type | Description | Notes

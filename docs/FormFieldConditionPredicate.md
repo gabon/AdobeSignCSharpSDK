@@ -1,4 +1,4 @@
-# IO.Swagger.model.agreements.FormFieldConditionPredicate
+# AdobeSign.Api.model.agreements.FormFieldConditionPredicate
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# IO.Swagger.model.agreements.SigningUrlSetInfo
+# AdobeSign.Api.model.agreements.SigningUrlSetInfo
 ## Properties
 
 Name | Type | Description | Notes

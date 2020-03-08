@@ -1,4 +1,4 @@
-# IO.Swagger.model.agreements.EmailOption
+# AdobeSign.Api.model.agreements.EmailOption
 ## Properties
 
 Name | Type | Description | Notes

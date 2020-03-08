@@ -1,4 +1,4 @@
-# IO.Swagger.model.megaSigns.AgreementCancellationInfo
+# AdobeSign.Api.model.megaSigns.AgreementCancellationInfo
 ## Properties
 
 Name | Type | Description | Notes

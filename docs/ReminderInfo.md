@@ -1,4 +1,4 @@
-# IO.Swagger.model.agreements.ReminderInfo
+# AdobeSign.Api.model.agreements.ReminderInfo
 ## Properties
 
 Name | Type | Description | Notes

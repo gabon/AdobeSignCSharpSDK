@@ -1,4 +1,4 @@
-# IO.Swagger.model.libraryDocuments.FileUploadOptions
+# AdobeSign.Api.model.libraryDocuments.FileUploadOptions
 ## Properties
 
 Name | Type | Description | Notes

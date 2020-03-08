@@ -1,4 +1,4 @@
-# IO.Swagger.model.widgets.WidgetRedirectionInfo
+# AdobeSign.Api.model.widgets.WidgetRedirectionInfo
 ## Properties
 
 Name | Type | Description | Notes

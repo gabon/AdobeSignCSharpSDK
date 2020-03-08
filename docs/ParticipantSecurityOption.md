@@ -1,4 +1,4 @@
-# IO.Swagger.model.widgets.ParticipantSecurityOption
+# AdobeSign.Api.model.widgets.ParticipantSecurityOption
 ## Properties
 
 Name | Type | Description | Notes

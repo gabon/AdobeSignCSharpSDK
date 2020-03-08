@@ -1,4 +1,4 @@
-# IO.Swagger.Api.LibraryDocumentsApi
+# AdobeSign.Api.Api.LibraryDocumentsApi
 
 All URIs are relative to *http://localhost/api/rest/v6*
 
@@ -32,9 +32,9 @@ Creates a template that is placed in the library of the user for reuse.
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.libraryDocuments;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.libraryDocuments;
 
 namespace Example
 {
@@ -97,9 +97,9 @@ Retrieves the latest state view url of a library document.
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.libraryDocuments;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.libraryDocuments;
 
 namespace Example
 {
@@ -166,9 +166,9 @@ Retrieves the combined document associated with a library document.
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.libraryDocuments;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.libraryDocuments;
 
 namespace Example
 {
@@ -235,9 +235,9 @@ Retrieves the IDs of the documents associated with library document.
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.libraryDocuments;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.libraryDocuments;
 
 namespace Example
 {
@@ -304,9 +304,9 @@ Retrieves the events information for a library document.
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.libraryDocuments;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.libraryDocuments;
 
 namespace Example
 {
@@ -373,9 +373,9 @@ This API can only be called by the creator of the library document
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.libraryDocuments;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.libraryDocuments;
 
 namespace Example
 {
@@ -440,9 +440,9 @@ Retrieves the file stream of a document of library document.
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.libraryDocuments;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.libraryDocuments;
 
 namespace Example
 {
@@ -509,9 +509,9 @@ Retrieves the audit trail associated with a library document.
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.libraryDocuments;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.libraryDocuments;
 
 namespace Example
 {
@@ -576,9 +576,9 @@ Retrieves image urls of all visible pages of a document associated with a librar
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.libraryDocuments;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.libraryDocuments;
 
 namespace Example
 {
@@ -651,9 +651,9 @@ Retrieves the details of a library document.
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.libraryDocuments;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.libraryDocuments;
 
 namespace Example
 {
@@ -718,9 +718,9 @@ Retrieves the latest note of a library document for the API user.
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.libraryDocuments;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.libraryDocuments;
 
 namespace Example
 {
@@ -783,9 +783,9 @@ Retrieves library documents for a user.
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.libraryDocuments;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.libraryDocuments;
 
 namespace Example
 {
@@ -854,9 +854,9 @@ Currently status, name, sharingMode and templateTypes of the library document ca
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.libraryDocuments;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.libraryDocuments;
 
 namespace Example
 {
@@ -922,9 +922,9 @@ Updates the latest note of a library document for the API user.
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.libraryDocuments;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.libraryDocuments;
 
 namespace Example
 {
@@ -990,9 +990,9 @@ Currently state can be changed from AUTHORING to ACTIVE.
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.libraryDocuments;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.libraryDocuments;
 
 namespace Example
 {
@@ -1058,9 +1058,9 @@ Updates the visibility of library document.
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.libraryDocuments;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.libraryDocuments;
 
 namespace Example
 {

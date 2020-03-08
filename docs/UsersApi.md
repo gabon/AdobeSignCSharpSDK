@@ -1,4 +1,4 @@
-# IO.Swagger.Api.UsersApi
+# AdobeSign.Api.Api.UsersApi
 
 All URIs are relative to *http://localhost/api/rest/v6*
 
@@ -23,9 +23,9 @@ Retrieves the groups of the user.
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.users;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.users;
 
 namespace Example
 {
@@ -86,9 +86,9 @@ Retrieves detailed information about the user in the caller account.
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.users;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.users;
 
 namespace Example
 {
@@ -149,9 +149,9 @@ Retrieves the URL of manage, account settings and user profile page.
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.users;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.users;
 
 namespace Example
 {
@@ -216,9 +216,9 @@ Retrieves all the users in an account.
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.users;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.users;
 
 namespace Example
 {
@@ -281,9 +281,9 @@ Update an user.
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.users;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.users;
 
 namespace Example
 {
@@ -345,9 +345,9 @@ Activate/Deactivate a given user.
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.users;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.users;
 
 namespace Example
 {
@@ -410,9 +410,9 @@ Updates the groups of the user.
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.users;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.users;
 
 namespace Example
 {

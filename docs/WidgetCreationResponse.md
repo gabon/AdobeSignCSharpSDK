@@ -1,4 +1,4 @@
-# IO.Swagger.model.widgets.WidgetCreationResponse
+# AdobeSign.Api.model.widgets.WidgetCreationResponse
 ## Properties
 
 Name | Type | Description | Notes

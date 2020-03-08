@@ -1,4 +1,4 @@
-# IO.Swagger.model.webhooks.WebhookMegaSignEvents
+# AdobeSign.Api.model.webhooks.WebhookMegaSignEvents
 ## Properties
 
 Name | Type | Description | Notes

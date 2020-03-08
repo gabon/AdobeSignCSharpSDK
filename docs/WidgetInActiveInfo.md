@@ -1,4 +1,4 @@
-# IO.Swagger.model.widgets.WidgetInActiveInfo
+# AdobeSign.Api.model.widgets.WidgetInActiveInfo
 ## Properties
 
 Name | Type | Description | Notes

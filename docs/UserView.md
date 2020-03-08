@@ -1,4 +1,4 @@
-# IO.Swagger.model.users.UserView
+# AdobeSign.Api.model.users.UserView
 ## Properties
 
 Name | Type | Description | Notes

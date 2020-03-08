@@ -1,4 +1,4 @@
-# IO.Swagger.model.widgets.VaultingInfo
+# AdobeSign.Api.model.widgets.VaultingInfo
 ## Properties
 
 Name | Type | Description | Notes

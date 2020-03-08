@@ -1,4 +1,4 @@
-# IO.Swagger.model.widgets.DigitalSignatureInfo
+# AdobeSign.Api.model.widgets.DigitalSignatureInfo
 ## Properties
 
 Name | Type | Description | Notes

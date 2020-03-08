@@ -1,4 +1,4 @@
-# IO.Swagger.Api.WorkflowsApi
+# AdobeSign.Api.Api.WorkflowsApi
 
 All URIs are relative to *http://localhost/api/rest/v6*
 
@@ -17,9 +17,9 @@ Retrieves workflows for a user.
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.workflows;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.workflows;
 
 namespace Example
 {

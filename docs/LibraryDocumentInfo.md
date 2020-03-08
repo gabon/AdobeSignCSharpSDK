@@ -1,4 +1,4 @@
-# IO.Swagger.model.libraryDocuments.LibraryDocumentInfo
+# AdobeSign.Api.model.libraryDocuments.LibraryDocumentInfo
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# IO.Swagger.model.workflows.UserWorkflow
+# AdobeSign.Api.model.workflows.UserWorkflow
 ## Properties
 
 Name | Type | Description | Notes

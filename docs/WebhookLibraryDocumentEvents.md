@@ -1,4 +1,4 @@
-# IO.Swagger.model.webhooks.WebhookLibraryDocumentEvents
+# AdobeSign.Api.model.webhooks.WebhookLibraryDocumentEvents
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# IO.Swagger.model.agreements.ComposeViewConfiguration
+# AdobeSign.Api.model.agreements.ComposeViewConfiguration
 ## Properties
 
 Name | Type | Description | Notes

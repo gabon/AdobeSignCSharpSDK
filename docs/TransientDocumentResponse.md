@@ -1,4 +1,4 @@
-# IO.Swagger.model.transientDocuments.TransientDocumentResponse
+# AdobeSign.Api.model.transientDocuments.TransientDocumentResponse
 ## Properties
 
 Name | Type | Description | Notes

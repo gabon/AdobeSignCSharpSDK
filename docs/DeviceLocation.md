@@ -1,4 +1,4 @@
-# IO.Swagger.model.megaSigns.DeviceLocation
+# AdobeSign.Api.model.megaSigns.DeviceLocation
 ## Properties
 
 Name | Type | Description | Notes

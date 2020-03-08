@@ -1,4 +1,4 @@
-# IO.Swagger.model.megaSigns.MegaSignSecurityOption
+# AdobeSign.Api.model.megaSigns.MegaSignSecurityOption
 ## Properties
 
 Name | Type | Description | Notes

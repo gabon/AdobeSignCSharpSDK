@@ -1,4 +1,4 @@
-# IO.Swagger.model.megaSigns.MegaSignStateInfo
+# AdobeSign.Api.model.megaSigns.MegaSignStateInfo
 ## Properties
 
 Name | Type | Description | Notes

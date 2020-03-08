@@ -1,4 +1,4 @@
-# IO.Swagger.model.webhooks.WebhookInfo
+# AdobeSign.Api.model.webhooks.WebhookInfo
 ## Properties
 
 Name | Type | Description | Notes

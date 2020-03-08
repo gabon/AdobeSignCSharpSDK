@@ -1,4 +1,4 @@
-# IO.Swagger.model.agreements.FormFieldHyperlink
+# AdobeSign.Api.model.agreements.FormFieldHyperlink
 ## Properties
 
 Name | Type | Description | Notes

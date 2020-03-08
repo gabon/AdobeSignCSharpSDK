@@ -1,4 +1,4 @@
-# IO.Swagger.model.baseUris.BaseUriInfo
+# AdobeSign.Api.model.baseUris.BaseUriInfo
 ## Properties
 
 Name | Type | Description | Notes

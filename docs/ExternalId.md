@@ -1,4 +1,4 @@
-# IO.Swagger.model.megaSigns.ExternalId
+# AdobeSign.Api.model.megaSigns.ExternalId
 ## Properties
 
 Name | Type | Description | Notes

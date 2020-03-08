@@ -1,4 +1,4 @@
-# IO.Swagger.model.users.UserViewResponse
+# AdobeSign.Api.model.users.UserViewResponse
 ## Properties
 
 Name | Type | Description | Notes

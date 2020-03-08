@@ -1,4 +1,4 @@
-# IO.Swagger.model.widgets.ShareCreationResponseList
+# AdobeSign.Api.model.widgets.ShareCreationResponseList
 ## Properties
 
 Name | Type | Description | Notes

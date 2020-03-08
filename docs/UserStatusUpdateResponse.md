@@ -1,4 +1,4 @@
-# IO.Swagger.model.users.UserStatusUpdateResponse
+# AdobeSign.Api.model.users.UserStatusUpdateResponse
 ## Properties
 
 Name | Type | Description | Notes

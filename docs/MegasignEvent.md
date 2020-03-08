@@ -1,4 +1,4 @@
-# IO.Swagger.model.megaSigns.MegasignEvent
+# AdobeSign.Api.model.megaSigns.MegasignEvent
 ## Properties
 
 Name | Type | Description | Notes

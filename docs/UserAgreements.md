@@ -1,4 +1,4 @@
-# IO.Swagger.model.agreements.UserAgreements
+# AdobeSign.Api.model.agreements.UserAgreements
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# IO.Swagger.model.megaSigns.MegaSignChildAgreements
+# AdobeSign.Api.model.megaSigns.MegaSignChildAgreements
 ## Properties
 
 Name | Type | Description | Notes

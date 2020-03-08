@@ -1,4 +1,4 @@
-# IO.Swagger.model.agreements.OfflineDeviceInfo
+# AdobeSign.Api.model.agreements.OfflineDeviceInfo
 ## Properties
 
 Name | Type | Description | Notes

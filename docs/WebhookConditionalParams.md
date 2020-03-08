@@ -1,4 +1,4 @@
-# IO.Swagger.model.webhooks.WebhookConditionalParams
+# AdobeSign.Api.model.webhooks.WebhookConditionalParams
 ## Properties
 
 Name | Type | Description | Notes

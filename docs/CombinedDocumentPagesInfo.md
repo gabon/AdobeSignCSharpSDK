@@ -1,4 +1,4 @@
-# IO.Swagger.model.agreements.CombinedDocumentPagesInfo
+# AdobeSign.Api.model.agreements.CombinedDocumentPagesInfo
 ## Properties
 
 Name | Type | Description | Notes

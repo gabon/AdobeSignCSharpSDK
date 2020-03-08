@@ -1,4 +1,4 @@
-# IO.Swagger.Api.BaseUrisApi
+# AdobeSign.Api.Api.BaseUrisApi
 
 All URIs are relative to *http://localhost/api/rest/v6*
 
@@ -17,9 +17,9 @@ Gets the base uri to access other APIs. In case other APIs are accessed from a d
 ```csharp
 using System;
 using System.Diagnostics;
-using IO.Swagger.Api;
-using IO.Swagger.Client;
-using IO.Swagger.model.baseUris;
+using AdobeSign.Api.Api;
+using AdobeSign.Api.Client;
+using AdobeSign.Api.model.baseUris;
 
 namespace Example
 {

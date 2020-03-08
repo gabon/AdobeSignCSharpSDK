@@ -1,4 +1,4 @@
-# IO.Swagger.model.groups.GroupUsersInfo
+# AdobeSign.Api.model.groups.GroupUsersInfo
 ## Properties
 
 Name | Type | Description | Notes

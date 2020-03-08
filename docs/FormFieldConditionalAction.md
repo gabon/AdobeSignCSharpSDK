@@ -1,4 +1,4 @@
-# IO.Swagger.model.agreements.FormFieldConditionalAction
+# AdobeSign.Api.model.agreements.FormFieldConditionalAction
 ## Properties
 
 Name | Type | Description | Notes

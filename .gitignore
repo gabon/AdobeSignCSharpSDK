@@ -1,0 +1,70 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
+# Build results
+[Bb]in/
+[Oo]bj/
+src/**/[Bb]in/
+src/**/[Oo]bj/
+.vs/
+/build/
+wwwroot/
+
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+*.ide
+*.trx
+
+# Test results
+coverage.cobertura.xml
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+applicationhost.config
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+.vs/
+
+
+# MS Office temporary files
+~$*
+
+cobertura.xml
+coverage.xml
+
+bin/
+
+packages/

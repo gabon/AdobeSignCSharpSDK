@@ -1,4 +1,4 @@
-# IO.Swagger.model.widgets.PageImageUrl
+# AdobeSign.Api.model.widgets.PageImageUrl
 ## Properties
 
 Name | Type | Description | Notes

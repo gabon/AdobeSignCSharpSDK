@@ -1,4 +1,4 @@
-# IO.Swagger.model.agreements.DelegatedParticipantInfo
+# AdobeSign.Api.model.agreements.DelegatedParticipantInfo
 ## Properties
 
 Name | Type | Description | Notes

@@ -1,4 +1,4 @@
-# IO.Swagger.model.agreements.DelegationResponse
+# AdobeSign.Api.model.agreements.DelegationResponse
 ## Properties
 
 Name | Type | Description | Notes
